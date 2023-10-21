@@ -1,0 +1,32 @@
+xrandr --output "DisplayPort-0" --set audio force-dvi --mode 1680x1050
+
+xrandr --output "DisplayPort-1" --set audio force-dvi --mode 1920x1080
+
+xrandr --output "DisplayPort-2" --set audio force-dvi --mode 1680x1050
+
+xrandr --output "DisplayPort-3" --set audio force-dvi --mode 1680x1050
+
+DisplayPort-0 connected primary 1680x1050+0+1050 (normal left inverted right x axis y axis) 474mm x 296mm
+
+
+DisplayPort-1 connected 1920x1080+5040+0 (normal left inverted right x axis y axis) 509mm x 286mm
+
+
+DisplayPort-2 connected 1680x1050+3360+0 (normal left inverted right x axis y axis) 474mm x 296mm
+
+
+DisplayPort-3 connected 1680x1050+1680+1050 (normal left inverted right x axis y axis) 474mm x 296mm
+
+
+--left-of, --right-of, --above, --below
+
+--same-as
+
+
+--brightness
+
+--off
+
+--auto
+
+
